@@ -24,6 +24,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #include "config.h"
 #endif
 
+#include <fstream>
+
 #include <boost/filesystem.hpp>
 
 #include "svg_saver.hpp"

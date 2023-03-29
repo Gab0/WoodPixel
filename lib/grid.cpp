@@ -25,6 +25,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #endif
 
 #include <list>
+#include <fstream>
 
 #include <boost/filesystem.hpp>
 #include <boost/math/constants/constants.hpp>

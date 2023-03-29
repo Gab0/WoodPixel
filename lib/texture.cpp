@@ -26,6 +26,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 #include "texture.hpp"
 
+#include <fstream>
 #include <stack>
 #include <stdexcept>
 #include <regex>
