@@ -15,7 +15,7 @@ sudo apt update && sudo apt install \
 build-essential \
 cmake \
 git \
-libboost-dev \
+libboost-all-dev \
 libopencv-dev \
 ```
 
@@ -28,4 +28,5 @@ make
 ```
 
 ### Links
+
 [Paper](https://light.cs.uni-bonn.de/computational-parquetry-fabricated-style-transfer-with-wood-pixels/)
